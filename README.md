@@ -60,7 +60,7 @@ developing your own process.
 
 ## Your Notes Here
 
-- Add a new toy when the toy form is submitted
+- Add a new toy when the toy form is submitted [X]
 
   - How I debugged:
 
@@ -68,6 +68,6 @@ developing your own process.
 
   - How I debugged:
 
-- Donate a toy to Goodwill (and delete it from our database)
+- Donate a toy to Goodwill (and delete it from our database) [X]
 
   - How I debugged:
